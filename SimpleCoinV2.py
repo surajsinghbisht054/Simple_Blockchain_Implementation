@@ -19,6 +19,14 @@ from Crypto.Signature import PKCS1_v1_5
 import time
 
 
+#
+# Hint
+#    Upgrading SimpleBlockChain Hash Verification Member functions
+#
+#
+#
+
+
 # Simple Request Transection
 class RequestTransection:
     def __init__(self):
